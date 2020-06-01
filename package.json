@@ -1,0 +1,15 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asia-jankowska00/natours.git",
+  "author": "asia-jankowska00 <asia.jankowska00@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  },
+  "scripts": {
+    "compile-live": "sass --watch scss:css"
+  },
+  "dependencies": {}
+}
